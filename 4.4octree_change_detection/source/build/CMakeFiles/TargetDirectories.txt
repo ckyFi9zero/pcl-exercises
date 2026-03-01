@@ -1,0 +1,3 @@
+/home/bbb/camera/src/4.4octree_change_detection/source/build/CMakeFiles/edit_cache.dir
+/home/bbb/camera/src/4.4octree_change_detection/source/build/CMakeFiles/rebuild_cache.dir
+/home/bbb/camera/src/4.4octree_change_detection/source/build/CMakeFiles/octree_change_detection.dir

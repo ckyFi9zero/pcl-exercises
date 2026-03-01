@@ -1,0 +1,3 @@
+/home/bbb/PCL/10.6MomentOfInertiaEstimation/source/build/CMakeFiles/rebuild_cache.dir
+/home/bbb/PCL/10.6MomentOfInertiaEstimation/source/build/CMakeFiles/edit_cache.dir
+/home/bbb/PCL/10.6MomentOfInertiaEstimation/source/build/CMakeFiles/moment_of_inertia.dir

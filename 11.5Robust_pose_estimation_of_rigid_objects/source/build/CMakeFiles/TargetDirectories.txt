@@ -1,0 +1,3 @@
+/home/bbb/PCL/11.5Robust_pose_estimation_of_rigid_objects/source/build/CMakeFiles/rebuild_cache.dir
+/home/bbb/PCL/11.5Robust_pose_estimation_of_rigid_objects/source/build/CMakeFiles/edit_cache.dir
+/home/bbb/PCL/11.5Robust_pose_estimation_of_rigid_objects/source/build/CMakeFiles/alignment_prerejective.dir

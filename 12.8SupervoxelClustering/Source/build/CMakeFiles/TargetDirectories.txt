@@ -1,0 +1,3 @@
+/home/bbb/PCL/12.8SupervoxelClustering/Source/build/CMakeFiles/rebuild_cache.dir
+/home/bbb/PCL/12.8SupervoxelClustering/Source/build/CMakeFiles/edit_cache.dir
+/home/bbb/PCL/12.8SupervoxelClustering/Source/build/CMakeFiles/supervoxel_clustering.dir

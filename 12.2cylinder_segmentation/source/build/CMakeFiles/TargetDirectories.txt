@@ -1,0 +1,3 @@
+/home/bbb/PCL/12.2cylinder_segmentation/source/build/CMakeFiles/rebuild_cache.dir
+/home/bbb/PCL/12.2cylinder_segmentation/source/build/CMakeFiles/edit_cache.dir
+/home/bbb/PCL/12.2cylinder_segmentation/source/build/CMakeFiles/cylinder_segmentation.dir

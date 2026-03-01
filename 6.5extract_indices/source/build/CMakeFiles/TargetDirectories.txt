@@ -1,0 +1,3 @@
+/home/bbb/PCL/6.5extract_indices/source/build/CMakeFiles/rebuild_cache.dir
+/home/bbb/PCL/6.5extract_indices/source/build/CMakeFiles/edit_cache.dir
+/home/bbb/PCL/6.5extract_indices/source/build/CMakeFiles/extract_indices.dir

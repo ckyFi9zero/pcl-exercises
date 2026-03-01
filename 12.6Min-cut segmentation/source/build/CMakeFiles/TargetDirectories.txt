@@ -1,0 +1,3 @@
+/home/bbb/PCL/12.6Min-cut segmentation/source/build/CMakeFiles/edit_cache.dir
+/home/bbb/PCL/12.6Min-cut segmentation/source/build/CMakeFiles/rebuild_cache.dir
+/home/bbb/PCL/12.6Min-cut segmentation/source/build/CMakeFiles/min_cut_segmentation.dir

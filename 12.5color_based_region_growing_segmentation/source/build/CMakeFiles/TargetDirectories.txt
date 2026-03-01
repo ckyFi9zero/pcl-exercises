@@ -1,0 +1,3 @@
+/home/bbb/PCL/12.5color_based_region_growing_segmentation/source/build/CMakeFiles/rebuild_cache.dir
+/home/bbb/PCL/12.5color_based_region_growing_segmentation/source/build/CMakeFiles/edit_cache.dir
+/home/bbb/PCL/12.5color_based_region_growing_segmentation/source/build/CMakeFiles/region_growing_rgb_segmentation.dir
